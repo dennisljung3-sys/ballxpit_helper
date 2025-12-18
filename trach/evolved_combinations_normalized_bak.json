@@ -1,0 +1,297 @@
+{
+  "assassin": [
+    [
+      "iron",
+      "ghost"
+    ],
+    [
+      "iron",
+      "dark"
+    ]
+  ],
+  "berserk": [
+    [
+      "charm",
+      "bleed"
+    ],
+    [
+      "charm",
+      "burn"
+    ]
+  ],
+  "black_hole": [
+    [
+      "dark",
+      "sun"
+    ]
+  ],
+  "blizzard": [
+    [
+      "freeze",
+      "wind"
+    ],
+    [
+      "freeze",
+      "lightning"
+    ]
+  ],
+  "bomb": [
+    [
+      "burn",
+      "iron"
+    ]
+  ],
+  "flash": [
+    [
+      "lightning",
+      "light"
+    ]
+  ],
+  "flicker": [
+    [
+      "light",
+      "dark"
+    ]
+  ],
+  "freeze_ray": [
+    [
+      "freeze",
+      "laser_horizontal"
+    ],
+    [
+      "freeze",
+      "laser_vertical"
+    ]
+  ],
+  "frozen_flame": [
+    [
+      "burn",
+      "freeze"
+    ]
+  ],
+  "glacier": [
+    [
+      "freeze",
+      "earthquake"
+    ]
+  ],
+  "hemorrhage": [
+    [
+      "bleed",
+      "iron"
+    ]
+  ],
+  "holy_laser": [
+    [
+      "laser_horizontal",
+      "laser_vertical"
+    ]
+  ],
+  "incubus": [
+    [
+      "charm",
+      "dark"
+    ]
+  ],
+  "inferno": [
+    [
+      "burn",
+      "wind"
+    ]
+  ],
+  "laser_beam": [
+    [
+      "light",
+      "laser_horizontal"
+    ],
+    [
+      "light",
+      "laser_vertical"
+    ]
+  ],
+  "leech": [
+    [
+      "brood_mother",
+      "bleed"
+    ]
+  ],
+  "lightning_rod": [
+    [
+      "lightning",
+      "iron"
+    ]
+  ],
+  "lovestruck": [
+    [
+      "charm",
+      "light"
+    ],
+    [
+      "charm",
+      "lightning"
+    ]
+  ],
+  "maggot": [
+    [
+      "brood_mother",
+      "cell"
+    ]
+  ],
+  "magma": [
+    [
+      "burn",
+      "earthquake"
+    ]
+  ],
+  "mosquito_king": [
+    [
+      "vampire",
+      "brood_mother"
+    ]
+  ],
+  "mosquito_swarm": [
+    [
+      "vampire",
+      "egg_sac"
+    ]
+  ],
+  "noxious": [
+    [
+      "poison",
+      "wind"
+    ],
+    [
+      "dark",
+      "wind"
+    ]
+  ],
+  "nuclear_bomb": [
+    [
+      "bomb",
+      "poison"
+    ]
+  ],
+  "overgrowth": [
+    [
+      "earthquake",
+      "cell"
+    ]
+  ],
+  "phantom": [
+    [
+      "dark",
+      "ghost"
+    ]
+  ],
+  "radiation_beam": [
+    [
+      "laser_horizontal",
+      "poison"
+    ],
+    [
+      "laser_horizontal",
+      "celllaser_vertical",
+      "poisonlaser_vertical",
+      "cell"
+    ]
+  ],
+  "sacrifice": [
+    [
+      "bleed",
+      "dark"
+    ]
+  ],
+  "sandstorm": [
+    [
+      "earthquake",
+      "wind"
+    ]
+  ],
+  "satan": [
+    [
+      "incubus",
+      "succubus"
+    ]
+  ],
+  "shotgun": [
+    [
+      "iron",
+      "egg_sac"
+    ]
+  ],
+  "soul_sucker": [
+    [
+      "vampire",
+      "ghost"
+    ]
+  ],
+  "spider_queen": [
+    [
+      "brood_mother",
+      "egg_sac"
+    ]
+  ],
+  "storm": [
+    [
+      "lightning",
+      "wind"
+    ]
+  ],
+  "succubus": [
+    [
+      "charm",
+      "vampire"
+    ]
+  ],
+  "sun": [
+    [
+      "burn",
+      "light"
+    ]
+  ],
+  "swamp": [
+    [
+      "poison",
+      "earthquake"
+    ]
+  ],
+  "vampire_lord": [
+    [
+      "vampire",
+      "bleed"
+    ],
+    [
+      "vampire",
+      "dark"
+    ]
+  ],
+  "virus": [
+    [
+      "poison",
+      "ghost"
+    ],
+    [
+      "poison",
+      "cell"
+    ]
+  ],
+  "voluptuous_egg_sac": [
+    [
+      "egg_sac",
+      "cell"
+    ]
+  ],
+  "wraith": [
+    [
+      "freeze",
+      "ghost"
+    ]
+  ],
+  "nosferatu": [
+    [
+      "vampire_lord",
+      "spider_queen",
+      "mosquito_king"
+    ]
+  ]
+}

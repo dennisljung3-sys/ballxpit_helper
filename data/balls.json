@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bleed_ball",
+    "stage": "stage_1",
+    "image": "stage_1/bleed_ball.png"
+  },
+  {
+    "id": "brood_mother_ball",
+    "stage": "stage_1",
+    "image": "stage_1/brood_mother_ball.png"
+  },
+  {
+    "id": "burn_ball",
+    "stage": "stage_1",
+    "image": "stage_1/burn_ball.png"
+  },
+  {
+    "id": "cell_ball",
+    "stage": "stage_1",
+    "image": "stage_1/cell_ball.png"
+  },
+  {
+    "id": "charm_ball",
+    "stage": "stage_1",
+    "image": "stage_1/charm_ball.png"
+  },
+  {
+    "id": "dark_ball",
+    "stage": "stage_1",
+    "image": "stage_1/dark_ball.png"
+  },
+  {
+    "id": "earthquake_ball",
+    "stage": "stage_1",
+    "image": "stage_1/earthquake_ball.png"
+  },
+  {
+    "id": "egg_sac_ball",
+    "stage": "stage_1",
+    "image": "stage_1/egg_sac_ball.png"
+  },
+  {
+    "id": "freeze_ball",
+    "stage": "stage_1",
+    "image": "stage_1/freeze_ball.png"
+  },
+  {
+    "id": "ghost_ball",
+    "stage": "stage_1",
+    "image": "stage_1/ghost_ball.png"
+  },
+  {
+    "id": "iron_ball",
+    "stage": "stage_1",
+    "image": "stage_1/iron_ball.png"
+  },
+  {
+    "id": "laser_horizontal_ball",
+    "stage": "stage_1",
+    "image": "stage_1/laser_horizontal_ball.png"
+  },
+  {
+    "id": "laser_vertical_ball",
+    "stage": "stage_1",
+    "image": "stage_1/laser_vertical_ball.png"
+  },
+  {
+    "id": "light_ball",
+    "stage": "stage_1",
+    "image": "stage_1/light_ball.png"
+  },
+  {
+    "id": "lightning_ball",
+    "stage": "stage_1",
+    "image": "stage_1/lightning_ball.png"
+  },
+  {
+    "id": "poison_ball",
+    "stage": "stage_1",
+    "image": "stage_1/poison_ball.png"
+  },
+  {
+    "id": "vampire_ball",
+    "stage": "stage_1",
+    "image": "stage_1/vampire_ball.png"
+  },
+  {
+    "id": "wind_ball",
+    "stage": "stage_1",
+    "image": "stage_1/wind_ball.png"
+  },
+  {
+    "id": "assassin_ball",
+    "stage": "stage_2",
+    "image": "stage_2/assassin_ball.png"
+  },
+  {
+    "id": "berserk_ball",
+    "stage": "stage_2",
+    "image": "stage_2/berserk_ball.png"
+  },
+  {
+    "id": "blizzard_ball",
+    "stage": "stage_2",
+    "image": "stage_2/blizzard_ball.png"
+  },
+  {
+    "id": "bomb_ball",
+    "stage": "stage_2",
+    "image": "stage_2/bomb_ball.png"
+  },
+  {
+    "id": "flash_ball",
+    "stage": "stage_2",
+    "image": "stage_2/flash_ball.png"
+  },
+  {
+    "id": "flicker_ball",
+    "stage": "stage_2",
+    "image": "stage_2/flicker_ball.png"
+  },
+  {
+    "id": "freeze_ray_ball",
+    "stage": "stage_2",
+    "image": "stage_2/freeze_ray_ball.png"
+  },
+  {
+    "id": "frozen_flame_ball",
+    "stage": "stage_2",
+    "image": "stage_2/frozen_flame_ball.png"
+  },
+  {
+    "id": "glacier_ball",
+    "stage": "stage_2",
+    "image": "stage_2/glacier_ball.png"
+  },
+  {
+    "id": "hemorrhage_ball",
+    "stage": "stage_2",
+    "image": "stage_2/hemorrhage_ball.png"
+  },
+  {
+    "id": "holy_laser_ball",
+    "stage": "stage_2",
+    "image": "stage_2/holy_laser_ball.png"
+  },
+  {
+    "id": "incubus_ball",
+    "stage": "stage_2",
+    "image": "stage_2/incubus_ball.png"
+  },
+  {
+    "id": "inferno_ball",
+    "stage": "stage_2",
+    "image": "stage_2/inferno_ball.png"
+  },
+  {
+    "id": "laser_beam_ball",
+    "stage": "stage_2",
+    "image": "stage_2/laser_beam_ball.png"
+  },
+  {
+    "id": "leech_ball",
+    "stage": "stage_2",
+    "image": "stage_2/leech_ball.png"
+  },
+  {
+    "id": "lightning_rod_ball",
+    "stage": "stage_2",
+    "image": "stage_2/lightning_rod_ball.png"
+  },
+  {
+    "id": "lovestruck_ball",
+    "stage": "stage_2",
+    "image": "stage_2/lovestruck_ball.png"
+  },
+  {
+    "id": "maggot_ball",
+    "stage": "stage_2",
+    "image": "stage_2/maggot_ball.png"
+  },
+  {
+    "id": "magma_ball",
+    "stage": "stage_2",
+    "image": "stage_2/magma_ball.png"
+  },
+  {
+    "id": "mosquito_king_ball",
+    "stage": "stage_2",
+    "image": "stage_2/mosquito_king_ball.png"
+  },
+  {
+    "id": "mosquito_swarm_ball",
+    "stage": "stage_2",
+    "image": "stage_2/mosquito_swarm_ball.png"
+  },
+  {
+    "id": "noxious_ball",
+    "stage": "stage_2",
+    "image": "stage_2/noxious_ball.png"
+  },
+  {
+    "id": "overgrowth_ball",
+    "stage": "stage_2",
+    "image": "stage_2/overgrowth_ball.png"
+  },
+  {
+    "id": "phantom_ball",
+    "stage": "stage_2",
+    "image": "stage_2/phantom_ball.png"
+  },
+  {
+    "id": "radiation_beam_ball",
+    "stage": "stage_2",
+    "image": "stage_2/radiation_beam_ball.png"
+  },
+  {
+    "id": "sacrifice_ball",
+    "stage": "stage_2",
+    "image": "stage_2/sacrifice_ball.png"
+  },
+  {
+    "id": "sandstorm_ball",
+    "stage": "stage_2",
+    "image": "stage_2/sandstorm_ball.png"
+  },
+  {
+    "id": "shotgun_ball",
+    "stage": "stage_2",
+    "image": "stage_2/shotgun_ball.png"
+  },
+  {
+    "id": "soul_sucker_ball",
+    "stage": "stage_2",
+    "image": "stage_2/soul_sucker_ball.png"
+  },
+  {
+    "id": "spider_queen_ball",
+    "stage": "stage_2",
+    "image": "stage_2/spider_queen_ball.png"
+  },
+  {
+    "id": "storm_ball",
+    "stage": "stage_2",
+    "image": "stage_2/storm_ball.png"
+  },
+  {
+    "id": "succubus_ball",
+    "stage": "stage_2",
+    "image": "stage_2/succubus_ball.png"
+  },
+  {
+    "id": "sun_ball",
+    "stage": "stage_2",
+    "image": "stage_2/sun_ball.png"
+  },
+  {
+    "id": "swamp_ball",
+    "stage": "stage_2",
+    "image": "stage_2/swamp_ball.png"
+  },
+  {
+    "id": "vampire_lord_ball",
+    "stage": "stage_2",
+    "image": "stage_2/vampire_lord_ball.png"
+  },
+  {
+    "id": "virus_ball",
+    "stage": "stage_2",
+    "image": "stage_2/virus_ball.png"
+  },
+  {
+    "id": "voluptuous_egg_sac_ball",
+    "stage": "stage_2",
+    "image": "stage_2/voluptuous_egg_sac_ball.png"
+  },
+  {
+    "id": "wraith_ball",
+    "stage": "stage_2",
+    "image": "stage_2/wraith_ball.png"
+  },
+  {
+    "id": "black_hole_ball",
+    "stage": "stage_3",
+    "image": "stage_3/black_hole_ball.png"
+  },
+  {
+    "id": "nosferatu_ball",
+    "stage": "stage_3",
+    "image": "stage_3/nosferatu_ball.png"
+  },
+  {
+    "id": "nuclear_bomb_ball",
+    "stage": "stage_3",
+    "image": "stage_3/nuclear_bomb_ball.png"
+  },
+  {
+    "id": "satan_ball",
+    "stage": "stage_3",
+    "image": "stage_3/satan_ball.png"
+  }
+]

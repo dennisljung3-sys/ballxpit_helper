@@ -1,0 +1,303 @@
+{
+  "assassin_ball": [
+    [
+      "iron_ball",
+      "ghost_ball"
+    ],
+    [
+      "iron_ball",
+      "dark_ball"
+    ]
+  ],
+  "berserk_ball": [
+    [
+      "charm_ball",
+      "bleed_ball"
+    ],
+    [
+      "charm_ball",
+      "burn_ball"
+    ]
+  ],
+  "black_hole_ball": [
+    [
+      "dark_ball",
+      "sun_ball"
+    ]
+  ],
+  "blizzard_ball": [
+    [
+      "freeze_ball",
+      "wind_ball"
+    ],
+    [
+      "freeze_ball",
+      "lightning_ball"
+    ]
+  ],
+  "bomb_ball": [
+    [
+      "burn_ball",
+      "iron_ball"
+    ]
+  ],
+  "flash_ball": [
+    [
+      "lightning_ball",
+      "light_ball"
+    ]
+  ],
+  "flicker_ball": [
+    [
+      "light_ball",
+      "dark_ball"
+    ]
+  ],
+  "freeze_ray_ball": [
+    [
+      "freeze_ball",
+      "laser_horizontal_ball"
+    ],
+    [
+      "freeze_ball",
+      "laser_vertical_ball"
+    ]
+  ],
+  "frozen_flame_ball": [
+    [
+      "burn_ball",
+      "freeze_ball"
+    ]
+  ],
+  "glacier_ball": [
+    [
+      "freeze_ball",
+      "earthquake_ball"
+    ]
+  ],
+  "hemorrhage_ball": [
+    [
+      "bleed_ball",
+      "iron_ball"
+    ]
+  ],
+  "holy_laser_ball": [
+    [
+      "laser_horizontal_ball",
+      "laser_vertical_ball"
+    ]
+  ],
+  "incubus_ball": [
+    [
+      "charm_ball",
+      "dark_ball"
+    ]
+  ],
+  "inferno_ball": [
+    [
+      "burn_ball",
+      "wind_ball"
+    ]
+  ],
+  "laser_beam_ball": [
+    [
+      "light_ball",
+      "laser_horizontal_ball"
+    ],
+    [
+      "light_ball",
+      "laser_vertical_ball"
+    ]
+  ],
+  "leech_ball": [
+    [
+      "brood_mother_ball",
+      "bleed_ball"
+    ]
+  ],
+  "lightning_rod_ball": [
+    [
+      "lightning_ball",
+      "iron_ball"
+    ]
+  ],
+  "lovestruck_ball": [
+    [
+      "charm_ball",
+      "light_ball"
+    ],
+    [
+      "charm_ball",
+      "lightning_ball"
+    ]
+  ],
+  "maggot_ball": [
+    [
+      "brood_mother_ball",
+      "cell_ball"
+    ]
+  ],
+  "magma_ball": [
+    [
+      "burn_ball",
+      "earthquake_ball"
+    ]
+  ],
+  "mosquito_king_ball": [
+    [
+      "vampire_ball",
+      "brood_mother_ball"
+    ]
+  ],
+  "mosquito_swarm_ball": [
+    [
+      "vampire_ball",
+      "egg_sac_ball"
+    ]
+  ],
+  "noxious_ball": [
+    [
+      "poison_ball",
+      "wind_ball"
+    ],
+    [
+      "dark_ball",
+      "wind_ball"
+    ]
+  ],
+  "nuclear_bomb_ball": [
+    [
+      "bomb_ball",
+      "poison_ball"
+    ]
+  ],
+  "overgrowth_ball": [
+    [
+      "earthquake_ball",
+      "cell_ball"
+    ]
+  ],
+  "phantom_ball": [
+    [
+      "dark_ball",
+      "ghost_ball"
+    ]
+  ],
+  "radiation_beam_ball": [
+    [
+      "laser_horizontal_ball",
+      "poison_ball"
+    ],
+    [
+      "laser_horizontal_ball",
+      "cell_ball"
+    ],
+    [
+      "laser_vertical_ball",
+      "poison"
+    ],
+    [
+      "laser_vertical_ball",
+      "cell_ball"
+    ]
+  ],
+  "sacrifice_ball": [
+    [
+      "bleed_ball",
+      "dark_ball"
+    ]
+  ],
+  "sandstorm_ball": [
+    [
+      "earthquake_ball",
+      "wind_ball"
+    ]
+  ],
+  "satan_ball": [
+    [
+      "incubus_ball",
+      "succubus_ball"
+    ]
+  ],
+  "shotgun_ball": [
+    [
+      "iron_ball",
+      "egg_sac_ball"
+    ]
+  ],
+  "soul_sucker_ball": [
+    [
+      "vampire_ball",
+      "ghost_ball"
+    ]
+  ],
+  "spider_queen_ball": [
+    [
+      "brood_mother_ball",
+      "egg_sac_ball"
+    ]
+  ],
+  "storm_ball": [
+    [
+      "lightning_ball",
+      "wind_ball"
+    ]
+  ],
+  "succubus_ball": [
+    [
+      "charm_ball",
+      "vampire_ball"
+    ]
+  ],
+  "sun_ball": [
+    [
+      "burn_ball",
+      "light_ball"
+    ]
+  ],
+  "swamp_ball": [
+    [
+      "poison_ball",
+      "earthquake_ball"
+    ]
+  ],
+  "vampire_lord_ball": [
+    [
+      "vampire_ball",
+      "bleed_ball"
+    ],
+    [
+      "vampire_ball",
+      "dark_ball"
+    ]
+  ],
+  "virus_ball": [
+    [
+      "poison_ball",
+      "ghost_ball"
+    ],
+    [
+      "poison_ball",
+      "cell_ball"
+    ]
+  ],
+  "voluptuous_egg_sac_ball": [
+    [
+      "egg_sac_ball",
+      "cell_ball"
+    ]
+  ],
+  "wraith_ball": [
+    [
+      "freeze_ball",
+      "ghost_ball"
+    ]
+  ],
+  "nosferatu_ball": [
+    [
+      "vampire_lord_ball",
+      "spider_queen_ball",
+      "mosquito_king_ball"
+    ]
+  ]
+}

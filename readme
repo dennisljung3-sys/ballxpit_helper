@@ -1,0 +1,17 @@
+# Ball x Pit Helper
+
+A Python + Tkinter tool to visualize ball combinations in Ball x Pit.
+
+## Features
+- Inventory tracking
+- Combination logic
+- Color-coded recipe highlights
+- Hover-based recipe visualization
+- Image-based UI
+
+## Requirements
+- Python 3.10+
+- Pillow
+
+## Run
+python3 main.py
