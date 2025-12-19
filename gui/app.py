@@ -195,18 +195,31 @@ class BallXPitApp:
 
     def _update_recipe_highlights(self):
         inv = set(self.state.get_inventory())
+
         for target, btns in self.buttons.items():
             recipes = self.state.get_recipes_for_ball(target)
+
+            has_complete = False
+            has_partial = False
+
             for recipe in recipes:
                 rset = set(recipe)
+
                 if rset.issubset(inv):
-                    color = "lightgreen"
+                    has_complete = True
+                    break  # GRÖN slår allt
                 elif rset & inv:
-                    color = "gold"
-                else:
-                    continue
-                for btn in btns:
-                    btn.config(highlightbackground=color)
+                    has_partial = True
+
+            if has_complete:
+                color = "lightgreen"
+            elif has_partial:
+                color = "gold"
+            else:
+                continue
+
+            for btn in btns:
+                btn.config(highlightbackground=color)
 
     # -------------------------------------------------
     # HOVER
