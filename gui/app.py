@@ -67,6 +67,7 @@ class BallXPitApp:
         self._render_inventory()
         self._update_selection_visuals()
         self._update_recipe_highlights()
+        self.highlight_stage1_candidates()
 
     def _clear_frames(self):
         for frame in (self.stage1_frame, self.stage23_frame, self.inventory_frame):
@@ -221,6 +222,21 @@ class BallXPitApp:
             for btn in btns:
                 btn.config(highlightbackground=color)
 
+    def highlight_stage1_candidates(self):
+        inv = set(self.state.get_inventory())
+        needed = set()
+
+        for recipes in self.state.combinations.values():
+            for recipe in recipes:
+                rset = set(recipe)
+                if rset & inv:
+                    needed |= (rset - inv)
+
+        for ball in needed:
+            if self.state.get_ball_stage(ball) == 1:
+                for btn in self.buttons.get(ball, []):
+                    btn.config(highlightbackground="gold")
+
     # -------------------------------------------------
     # HOVER
     # -------------------------------------------------
@@ -239,6 +255,7 @@ class BallXPitApp:
         self.hover_ball = None
         self._reset_highlights()
         self._update_recipe_highlights()
+        self.highlight_stage1_candidates()
 
     def _apply_hover(self, ball_id):
         self._reset_highlights()
